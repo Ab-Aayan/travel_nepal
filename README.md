@@ -83,7 +83,7 @@ The Travel Nepal App will now be running on your local development server. You c
 
 ## Contributing
 
-We welcome contributions from the community to enhance and expand the Travel Nepal App. If you'd like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to enhance and expand the Travel Nepal App.
 
 ## License
 
