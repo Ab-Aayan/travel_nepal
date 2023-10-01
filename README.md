@@ -1,5 +1,3 @@
-
-```markdown
 # Travel Nepal App
 
 ![Travel Nepal App Logo](app_logo.png)
@@ -100,4 +98,3 @@ For questions, feedback, or collaboration opportunities, please reach out to our
 Embark on a journey of a lifetime with the Travel Nepal App. Explore, experience, and immerse yourself in the beauty of Nepal like never before!
 ```
 
-In this updated README.md file, the focus is on Flutter-specific installation and usage instructions. Be sure to replace `yourusername` with your actual GitHub username, and `app_logo.png` with the appropriate file path or URL for your app's logo. Customize the content further to match your specific project details and requirements.
