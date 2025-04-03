@@ -52,7 +52,7 @@ The **Travel Nepal App** is your ultimate travel companion for exploring the bre
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/travel-nepal-app.git](https://github.com/Ab-Aayan/travel_nepal.git)
+   git clone [https://github.com/Ab-Aayan/travel_nepal.git]
    ```
 
 2. Navigate to the project directory:
